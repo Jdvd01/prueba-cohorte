@@ -4,7 +4,7 @@
 - [ ] Hacer la lectura del móidulo 5 
 mi cambio en codespaces
 
-##  José aregla esto
+##  José arregla esto
 
 ```js
 const holaMundo = "holaaa"
